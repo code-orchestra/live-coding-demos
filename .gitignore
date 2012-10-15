@@ -4,8 +4,8 @@ link-report.xml
 *_flex_config.xml
 classes_gen
 source_gen*
-*_liveCoding
-livecoding
+*_liveCoding.swc
+output_swf
 
 # https://help.github.com/articles/ignoring-files
 
