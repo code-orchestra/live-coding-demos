@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="EnvironmentLibraryManager">
+    <environmentLibrary libraryReference="3849ec0a-97b3-4a50-8e3c-92d2066b6599(playerglobal_swc)" implementationReference="e5f7cdc9-b037-45b7-b458-e595780f6b53(jangaroo-runtime)" environment="HTML5" />
+    <environmentLibrary libraryReference="3849ec0a-97b3-4a50-8e3c-92d2066b6599(playerglobal_swc)" implementationReference="d2f2dcff-810f-4fab-957f-72350eb5b4a4(jooflash)" environment="HTML5" />
+  </component>
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="${project}/modules/Project3/Project3.msd" />
+      <modulePath path="${project}/modules/Project3_liveCoding/Project3_liveCoding.msd" />
+    </projectModules>
+    <genConfs />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+  <component name="ProjectVersion">
+    <option name="version" value="1.5" />
+  </component>
+  <component name="RGSClientSettings">
+    <option name="host" value="127.0.0.1" />
+    <option name="useRemoteGeneration" value="true" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+  </component>
+</project>
+

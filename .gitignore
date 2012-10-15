@@ -1,0 +1,21 @@
+*.log
+RGSOutput.zip
+link-report.xml
+*_flex_config.xml
+classes_gen
+source_gen*
+*_liveCoding
+livecoding
+
+# https://help.github.com/articles/ignoring-files
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
