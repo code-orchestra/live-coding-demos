@@ -19,6 +19,45 @@
     <modules />
   </component>
   <component name="ProjectRootManager" version="2" />
+  <component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Unnamed" type="ActionScript" factoryName="ActionScriptRunConfiguration">
+      <MyState />
+      <myASRunSettings>
+        <MyState>
+          <option name="moduleName" value="Project3" />
+          <option name="customFile" value="" />
+          <option name="swfFile" value="$PROJECT_DIR$/modules/Project3/output_swf/Project3.swf" />
+          <option name="skipMake" value="false" />
+          <option name="useCustomFile" value="false" />
+          <option name="launcherType" value="0" />
+          <option name="flashPlayerPath" value="" />
+        </MyState>
+      </myASRunSettings>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="Live Coding" factoryName="ASLiveCoding">
+      <MyState />
+      <myLiveCodingSettings>
+        <MyState>
+          <option name="moduleName" value="Project3" />
+          <option name="customFile" value="" />
+          <option name="swfFile" value="$PROJECT_DIR$/modules/Project3/output_swf/Project3.swf" />
+          <option name="useCustomFile" value="false" />
+          <option name="launcherType" value="0" />
+          <option name="flashPlayerPath" value="" />
+          <option name="liveCodingMode" value="ALL_METHODS" />
+          <option name="gettersAndSettersLive" value="false" />
+          <option name="maxLoopIterations" value="10000" />
+          <option name="maxRecursionDepth" value="100" />
+        </MyState>
+      </myLiveCodingSettings>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+  </component>
   <component name="ProjectVersion">
     <option name="version" value="1.5" />
   </component>
