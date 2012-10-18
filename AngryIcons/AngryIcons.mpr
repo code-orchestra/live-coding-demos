@@ -12,6 +12,8 @@
     <projectModules>
       <modulePath path="${project}/modules/AngryIcons/AngryIcons.msd" />
       <modulePath path="${project}/modules/debug_nape_swc/debug_nape_swc.msd" />
+      <modulePath path="${project}/modules/greensock_swc/greensock_swc.msd" />
+      <modulePath path="${project}/modules/Stats/Stats.msd" />
     </projectModules>
     <genConfs />
   </component>
