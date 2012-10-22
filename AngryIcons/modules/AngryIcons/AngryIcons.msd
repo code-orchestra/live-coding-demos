@@ -15,6 +15,8 @@
     <dependency reexport="false">26f8962d-dd7c-4b18-9787-afa3e429b635(greensock_swc)</dependency>
     <dependency reexport="false">deb885a3-45af-4af9-9d6b-160d6ece45ea(osmf_swc)</dependency>
     <dependency reexport="false">3849ec0a-97b3-4a50-8e3c-92d2066b6599(playerglobal_swc)</dependency>
+    <dependency reexport="false">8106304a-c574-4363-9886-2c0bc7ff1825(AngryIcons)</dependency>
+    <dependency reexport="false">f68be358-6629-4f41-ae5f-4a9d0f5b7b43(framework_swc)</dependency>
   </dependencies>
   <usedLanguages>
     <usedLanguage>2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(com.realaxy.actionScript)</usedLanguage>
