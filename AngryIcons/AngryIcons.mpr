@@ -15,6 +15,7 @@
       <modulePath path="${project}/modules/greensock_swc/greensock_swc.msd" />
       <modulePath path="${project}/modules/Stats/Stats.msd" />
       <modulePath path="${project}/modules/Quick2D/Quick2D.msd" />
+      <modulePath path="${project}/modules/AngryIcons_liveCoding/AngryIcons_liveCoding.msd" />
     </projectModules>
     <genConfs />
   </component>
@@ -23,6 +24,26 @@
   </component>
   <component name="ProjectRootManager" version="2" />
   <component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Unnamed" type="Live Coding" factoryName="ASLiveCoding">
+      <MyState />
+      <myLiveCodingSettings>
+        <MyState>
+          <option name="moduleName" value="AngryIcons" />
+          <option name="customFile" value="" />
+          <option name="swfFile" value="$PROJECT_DIR$/modules/AngryIcons/output_swf/AngryIcons.swf" />
+          <option name="useCustomFile" value="false" />
+          <option name="launcherType" value="0" />
+          <option name="flashPlayerPath" value="" />
+          <option name="liveCodingMode" value="ALL_METHODS" />
+          <option name="gettersAndSettersLive" value="false" />
+          <option name="maxLoopIterations" value="10000" />
+          <option name="maxRecursionDepth" value="100" />
+        </MyState>
+      </myLiveCodingSettings>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
     <configuration default="false" name="Unnamed" type="ActionScript" factoryName="ActionScriptRunConfiguration">
       <MyState />
       <myASRunSettings>
