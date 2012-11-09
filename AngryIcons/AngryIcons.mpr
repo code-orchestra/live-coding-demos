@@ -24,6 +24,25 @@
   </component>
   <component name="ProjectRootManager" version="2" />
   <component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Unnamed" type="ActionScript" factoryName="ActionScriptRunConfiguration">
+      <MyState />
+      <myASRunSettings>
+        <MyState>
+          <option name="moduleName" value="AngryIcons" />
+          <option name="customFile" value="" />
+          <option name="swfFile" value="$PROJECT_DIR$/modules/AngryIcons/output_swf/AngryIcons.swf" />
+          <option name="skipMake" value="false" />
+          <option name="useCustomFile" value="false" />
+          <option name="launcherType" value="0" />
+          <option name="flashPlayerPath" value="" />
+        </MyState>
+      </myASRunSettings>
+      <RunnerSettings RunnerId="Default Debug Runner" />
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Debug Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
     <configuration default="false" name="Unnamed" type="Live Coding" factoryName="ASLiveCoding">
       <MyState />
       <myLiveCodingSettings>
@@ -41,25 +60,6 @@
         </MyState>
       </myLiveCodingSettings>
       <RunnerSettings RunnerId="Default Runner" />
-      <ConfigurationWrapper RunnerId="Default Runner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unnamed" type="ActionScript" factoryName="ActionScriptRunConfiguration">
-      <MyState />
-      <myASRunSettings>
-        <MyState>
-          <option name="moduleName" value="AngryIcons" />
-          <option name="customFile" value="" />
-          <option name="swfFile" value="$PROJECT_DIR$/modules/AngryIcons/output_swf/AngryIcons.swf" />
-          <option name="skipMake" value="false" />
-          <option name="useCustomFile" value="false" />
-          <option name="launcherType" value="0" />
-          <option name="flashPlayerPath" value="" />
-        </MyState>
-      </myASRunSettings>
-      <RunnerSettings RunnerId="Default Debug Runner" />
-      <RunnerSettings RunnerId="Default Runner" />
-      <ConfigurationWrapper RunnerId="Default Debug Runner" />
       <ConfigurationWrapper RunnerId="Default Runner" />
       <method />
     </configuration>
