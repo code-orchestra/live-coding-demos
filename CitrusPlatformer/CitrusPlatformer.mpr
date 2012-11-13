@@ -11,8 +11,8 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="${project}/modules/CitrusPlatformer/CitrusPlatformer.msd" />
-      <modulePath path="${project}/modules/CEV3Beta3-ALL_swc/CEV3Beta3-ALL_swc.msd" />
       <modulePath path="${project}/modules/CitrusPlatformer_liveCoding/CitrusPlatformer_liveCoding.msd" />
+      <modulePath path="${project}/modules/CEV3-0-0-Starling-Box2D_swc/CEV3-0-0-Starling-Box2D_swc.msd" />
     </projectModules>
     <genConfs />
   </component>
@@ -21,6 +21,25 @@
   </component>
   <component name="ProjectRootManager" version="2" />
   <component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Unnamed" type="ActionScript" factoryName="ActionScriptRunConfiguration">
+      <MyState />
+      <myASRunSettings>
+        <MyState>
+          <option name="moduleName" value="CitrusPlatformer" />
+          <option name="customFile" value="" />
+          <option name="swfFile" value="$PROJECT_DIR$/modules/CitrusPlatformer/output_swf/CitrusPlatformer.swf" />
+          <option name="skipMake" value="false" />
+          <option name="useCustomFile" value="false" />
+          <option name="launcherType" value="0" />
+          <option name="flashPlayerPath" value="" />
+        </MyState>
+      </myASRunSettings>
+      <RunnerSettings RunnerId="Default Debug Runner" />
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Debug Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
     <configuration default="false" name="Unnamed" type="Live Coding" factoryName="ASLiveCoding">
       <MyState />
       <myLiveCodingSettings>
@@ -38,25 +57,6 @@
         </MyState>
       </myLiveCodingSettings>
       <RunnerSettings RunnerId="Default Runner" />
-      <ConfigurationWrapper RunnerId="Default Runner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unnamed" type="ActionScript" factoryName="ActionScriptRunConfiguration">
-      <MyState />
-      <myASRunSettings>
-        <MyState>
-          <option name="moduleName" value="CitrusPlatformer" />
-          <option name="customFile" value="" />
-          <option name="swfFile" value="$PROJECT_DIR$/modules/CitrusPlatformer/output_swf/CitrusPlatformer.swf" />
-          <option name="skipMake" value="false" />
-          <option name="useCustomFile" value="false" />
-          <option name="launcherType" value="0" />
-          <option name="flashPlayerPath" value="" />
-        </MyState>
-      </myASRunSettings>
-      <RunnerSettings RunnerId="Default Debug Runner" />
-      <RunnerSettings RunnerId="Default Runner" />
-      <ConfigurationWrapper RunnerId="Default Debug Runner" />
       <ConfigurationWrapper RunnerId="Default Runner" />
       <method />
     </configuration>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="CEV3Beta3-ALL_swc" uuid="b3fb6518-5e73-4c6a-ad42-ce43f5a3c83c" compileInMPS="true" outputTypeIndex="1" useDefaultSDKConfiguration="true" useCustomSDKConfiguration="false" outputFileName="CEV3Beta3-ALL.swc" inheritProjectOutputPath="false" moduleOutputPath="/Users/makc/CodeOrchestraProjects/CitrusPlatformer/modules/CEV3Beta3-ALL_swc" playerVersion="11.5.0" useFrameworkAsRSL="false" checkModels="false" deleteUnusedMembers="false" deleteWhitespace="false" includeAllRoots="false" includeResources="false" localeOptions="en_US">
+<solution name="CEV3-0-0-Starling-Box2D_swc" uuid="6a2d43a4-31f7-460b-9f23-60315ce4f0ad" compileInMPS="true" outputTypeIndex="1" useDefaultSDKConfiguration="true" useCustomSDKConfiguration="false" outputFileName="CEV3-0-0-Starling-Box2D.swc" inheritProjectOutputPath="false" moduleOutputPath="/Users/makc/Documents/live-coding-demos/CitrusPlatformer/modules/CEV3-0-0-Starling-Box2D_swc" playerVersion="11.5.0" useFrameworkAsRSL="false" checkModels="false" deleteUnusedMembers="false" deleteWhitespace="false" includeAllRoots="false" includeResources="false" localeOptions="en_US">
   <models>
     <modelRoot path="${solution_descriptor}/" namespacePrefix="" />
   </models>
   <stubModelEntries>
-    <stubModelEntry path="${solution_descriptor}/CEV3Beta3-ALL.swc">
+    <stubModelEntry path="${solution_descriptor}/CEV3-0-0-Starling-Box2D.swc">
       <manager moduleId="d547343e-176a-45a2-8748-f7abfd850b86" className="com.realaxy.actionScript.core.stubs.SWCStubs" />
     </stubModelEntry>
   </stubModelEntries>
