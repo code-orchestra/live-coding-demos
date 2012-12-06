@@ -124,8 +124,8 @@
           <node role="expression" roleId="3vt2.1241022361052" type="3vt2.ExpressionList" typeId="3vt2.2232984037991132640" id="6210250919662369277">
             <node role="expression" roleId="3vt2.2232984037991132641" type="3vt2.AssignmentExpression" typeId="3vt2.1237753163044" id="6210250919662369280">
               <node role="rightOperand" roleId="3vt2.426377380078250900" type="3vt2.GenericNewExpression" typeId="3vt2.1630592743144645284" id="6210250919662369283">
-                <node role="creator" roleId="3vt2.1630592743144645285" type="3vt2.ClassCreator" typeId="3vt2.1630592743144645279" id="8543478388210304851">
-                  <link role="classConcept" roleId="3vt2.2024767275314988180" targetNodeId="8543478388210304289" resolveInfo="TestState" />
+                <node role="creator" roleId="3vt2.1630592743144645285" type="3vt2.ClassCreator" typeId="3vt2.1630592743144645279" id="8263702736891852632">
+                  <link role="classConcept" roleId="3vt2.2024767275314988180" targetNodeId="6210250919662369285" resolveInfo="GameState" />
                 </node>
               </node>
               <node role="leftOperand" roleId="3vt2.426377380078249176" type="3vt2.OperationExpression" typeId="3vt2.8480212669356022860" id="6210250919662369278">
@@ -452,8 +452,8 @@
             </node>
           </node>
         </node>
-        <node role="statement" roleId="3vt2.1237648447990" type="3vt2.Statement" typeId="3vt2.1237648130608" id="6479061434825797544" />
-        <node role="statement" roleId="3vt2.1237648447990" type="3vt2.CommentedStatementsBlock" typeId="3vt2.1630592743144646080" id="6479061434825797550">
+        <node role="statement" roleId="3vt2.1237648447990" type="3vt2.Statement" typeId="3vt2.1237648130608" id="9025718615213526707" />
+        <node role="statement" roleId="3vt2.1237648447990" type="3vt2.CommentedStatementsBlock" typeId="3vt2.1630592743144646080" id="9025718615213526708">
           <node role="statement" roleId="3vt2.1630592743144646082" type="3vt2.ExpressionStatement" typeId="3vt2.1241022302122" id="2755681510725763943">
             <node role="expression" roleId="3vt2.1241022361052" type="3vt2.ExpressionList" typeId="3vt2.2232984037991132640" id="2755681510725763944">
               <node role="expression" roleId="3vt2.2232984037991132641" type="3vt2.OperationExpression" typeId="3vt2.8480212669356022860" id="2755681510725763945">
