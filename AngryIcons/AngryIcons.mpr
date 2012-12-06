@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="EnvironmentLibraryManager">
+    <environmentLibrary libraryReference="3849ec0a-97b3-4a50-8e3c-92d2066b6599(playerglobal_swc)" implementationReference="e5f7cdc9-b037-45b7-b458-e595780f6b53(jangaroo-runtime)" environment="HTML5" />
+    <environmentLibrary libraryReference="3849ec0a-97b3-4a50-8e3c-92d2066b6599(playerglobal_swc)" implementationReference="d2f2dcff-810f-4fab-957f-72350eb5b4a4(jooflash)" environment="HTML5" />
+  </component>
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="${project}/modules/AngryIcons/AngryIcons.msd" />
+      <modulePath path="${project}/modules/debug_nape_swc/debug_nape_swc.msd" />
+      <modulePath path="${project}/modules/greensock_swc/greensock_swc.msd" />
+      <modulePath path="${project}/modules/Stats/Stats.msd" />
+      <modulePath path="${project}/modules/Quick2D/Quick2D.msd" />
+      <modulePath path="${project}/modules/AngryIcons_liveCoding/AngryIcons_liveCoding.msd" />
+    </projectModules>
+    <genConfs />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+  <component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Unnamed" type="ActionScript" factoryName="ActionScriptRunConfiguration">
+      <MyState />
+      <myASRunSettings>
+        <MyState>
+          <option name="moduleName" value="AngryIcons" />
+          <option name="customFile" value="" />
+          <option name="swfFile" value="$PROJECT_DIR$/modules/AngryIcons/output_swf/AngryIcons.swf" />
+          <option name="skipMake" value="false" />
+          <option name="useCustomFile" value="false" />
+          <option name="launcherType" value="0" />
+          <option name="flashPlayerPath" value="" />
+        </MyState>
+      </myASRunSettings>
+      <RunnerSettings RunnerId="Default Debug Runner" />
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Debug Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="Live Coding" factoryName="ASLiveCoding">
+      <MyState />
+      <myLiveCodingSettings>
+        <MyState>
+          <option name="moduleName" value="AngryIcons" />
+          <option name="customFile" value="" />
+          <option name="swfFile" value="$PROJECT_DIR$/modules/AngryIcons/output_swf/AngryIcons.swf" />
+          <option name="useCustomFile" value="false" />
+          <option name="launcherType" value="0" />
+          <option name="flashPlayerPath" value="" />
+          <option name="liveCodingMode" value="ALL_METHODS" />
+          <option name="gettersAndSettersLive" value="false" />
+          <option name="maxLoopIterations" value="10000" />
+          <option name="maxRecursionDepth" value="100" />
+        </MyState>
+      </myLiveCodingSettings>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ProjectVersion">
+    <option name="version" value="1.5" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+  </component>
+</project>
+
