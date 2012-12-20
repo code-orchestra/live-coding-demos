@@ -5,7 +5,7 @@
   </models>
   <stubModelEntries>
     <stubModelEntry path="${solution_descriptor}/src">
-      <manager moduleId="245456ae-b11f-4439-b991-ffed67bf9f97" className="realaxy.actionScript.asstubs.stubs.ASSourceStubs" />
+      <manager moduleId="245456ae-b11f-4439-b991-ffed67bf9f97" className="codeOrchestra.actionScript.asstubs.stubs.ASSourceStubs" />
     </stubModelEntry>
   </stubModelEntries>
   <sourcePath />
@@ -13,9 +13,9 @@
     <dependency reexport="false">playerglobal_swc</dependency>
   </dependencies>
   <usedLanguages>
-    <usedLanguage>com.realaxy.actionScript</usedLanguage>
-    <usedLanguage>com.realaxy.actionScript.logging</usedLanguage>
-    <usedLanguage>com.realaxy.projectAssets</usedLanguage>
+    <usedLanguage>codeOrchestra.actionScript</usedLanguage>
+    <usedLanguage>codeOrchestra.actionScript.logging</usedLanguage>
+    <usedLanguage>codeOrchestra.projectAssets</usedLanguage>
   </usedLanguages>
 </solution>
 

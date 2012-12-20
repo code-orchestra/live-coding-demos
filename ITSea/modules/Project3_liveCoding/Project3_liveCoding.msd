@@ -5,14 +5,14 @@
   </models>
   <sourcePath />
   <dependencies>
-    <dependency reexport="false">com.realaxy.actionScript.liveCoding</dependency>
+    <dependency reexport="false">codeOrchestra.actionScript.liveCoding</dependency>
     <dependency reexport="false">playerglobal_swc</dependency>
   </dependencies>
   <usedLanguages>
-    <usedLanguage>com.realaxy.actionScript</usedLanguage>
-    <usedLanguage>com.realaxy.actionScript.logging</usedLanguage>
-    <usedLanguage>com.realaxy.projectAssets</usedLanguage>
-    <usedLanguage>a540fd57-0e8e-4a41-b5a0-5eb74e58a302(com.realaxy.actionScript.liveCoding)</usedLanguage>
+    <usedLanguage>codeOrchestra.actionScript</usedLanguage>
+    <usedLanguage>codeOrchestra.actionScript.logging</usedLanguage>
+    <usedLanguage>codeOrchestra.projectAssets</usedLanguage>
+    <usedLanguage>a540fd57-0e8e-4a41-b5a0-5eb74e58a302(codeOrchestra.actionScript.liveCoding)</usedLanguage>
   </usedLanguages>
 </solution>
 

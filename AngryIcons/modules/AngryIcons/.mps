@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model modelUID="r:2e6a4d42-4e6e-4b8b-9665-0e8a5545eaa9()">
   <persistence version="7" />
-  <language namespace="2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(com.realaxy.actionScript)" />
-  <language namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(com.realaxy.actionScript.logging)" />
-  <language namespace="f8e34e2c-a7e4-43d2-ae57-c99a2499fa39(com.realaxy.projectAssets)" />
-  <language namespace="a540fd57-0e8e-4a41-b5a0-5eb74e58a302(com.realaxy.actionScript.liveCoding)" />
-  <language-engaged-on-generation namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(com.realaxy.actionScript.logging)" />
+  <language namespace="2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(codeOrchestra.actionScript)" />
+  <language namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(codeOrchestra.actionScript.logging)" />
+  <language namespace="f8e34e2c-a7e4-43d2-ae57-c99a2499fa39(codeOrchestra.projectAssets)" />
+  <language namespace="a540fd57-0e8e-4a41-b5a0-5eb74e58a302(codeOrchestra.actionScript.liveCoding)" />
+  <language-engaged-on-generation namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(codeOrchestra.actionScript.logging)" />
   <import index="1k6w" modelUID="f:swc_stub#(@swc_stub)" version="-1" />
   <import index="jivu" modelUID="f:swc_stub#flash.display(flash.display@swc_stub)" version="-1" />
   <import index="q8sl" modelUID="f:swc_stub#flash.metadata(flash.metadata@swc_stub)" version="-1" />
@@ -28,11 +28,11 @@
   <import index="6hcj" modelUID="f:swc_stub#nape.util(nape.util@swc_stub)" version="-1" />
   <import index="kgeu" modelUID="f:swc_stub#quick2d(quick2d@swc_stub)" version="-1" />
   <import index="hkoa" modelUID="r:2e6a4d42-4e6e-4b8b-9665-0e8a5545eaa9()" version="-1" />
-  <import index="29it" modelUID="r:944a31f8-bb9e-4168-b4ad-9638a126a51d(com.realaxy.actionScript.util)" version="-1" />
-  <import index="n5kq" modelUID="r:5865b376-a157-43b1-b990-70db6dbffde6(com.realaxy.actionScript.liveCoding.util)" version="-1" />
+  <import index="29it" modelUID="r:944a31f8-bb9e-4168-b4ad-9638a126a51d(codeOrchestra.actionScript.util)" version="-1" />
+  <import index="n5kq" modelUID="r:5865b376-a157-43b1-b990-70db6dbffde6(codeOrchestra.actionScript.liveCoding.util)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
-  <import index="3vt2" modelUID="r:49784cba-a384-4286-b969-08d540fbc32f(com.realaxy.actionScript.structure)" version="81" implicit="yes" />
-  <import index="lbmv" modelUID="r:8a4b8ef0-9ad1-439b-a216-d0659bebf629(com.realaxy.projectAssets.structure)" version="-1" implicit="yes" />
+  <import index="3vt2" modelUID="r:49784cba-a384-4286-b969-08d540fbc32f(codeOrchestra.actionScript.structure)" version="81" implicit="yes" />
+  <import index="lbmv" modelUID="r:8a4b8ef0-9ad1-439b-a216-d0659bebf629(codeOrchestra.projectAssets.structure)" version="-1" implicit="yes" />
   <roots>
     <node type="3vt2.ClassConcept" typeId="3vt2.1237644023270" id="3108638761327372012">
       <property name="name" nameId="tpck.1169194664001" value="AngryIcons" />

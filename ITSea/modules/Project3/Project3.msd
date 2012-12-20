@@ -11,12 +11,12 @@
     <dependency reexport="false">00000000-4d8b-41fa-ffff-fffff410f902(Project3_projectAssets)</dependency>
     <dependency reexport="false">3849ec0a-97b3-4a50-8e3c-92d2066b6599(playerglobal_swc)</dependency>
     <dependency reexport="false">1b4a95ec-3105-427f-a610-5a39bd1ed18b(spark_swc)</dependency>
-    <dependency reexport="false">a540fd57-0e8e-4a41-b5a0-5eb74e58a302(com.realaxy.actionScript.liveCoding)</dependency>
+    <dependency reexport="false">a540fd57-0e8e-4a41-b5a0-5eb74e58a302(codeOrchestra.actionScript.liveCoding)</dependency>
   </dependencies>
   <usedLanguages>
-    <usedLanguage>2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(com.realaxy.actionScript)</usedLanguage>
-    <usedLanguage>3a27ae5e-9c30-4977-a146-ffce86d2005c(com.realaxy.actionScript.logging)</usedLanguage>
-    <usedLanguage>f8e34e2c-a7e4-43d2-ae57-c99a2499fa39(com.realaxy.projectAssets)</usedLanguage>
+    <usedLanguage>2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(codeOrchestra.actionScript)</usedLanguage>
+    <usedLanguage>3a27ae5e-9c30-4977-a146-ffce86d2005c(codeOrchestra.actionScript.logging)</usedLanguage>
+    <usedLanguage>f8e34e2c-a7e4-43d2-ae57-c99a2499fa39(codeOrchestra.projectAssets)</usedLanguage>
   </usedLanguages>
 </solution>
 

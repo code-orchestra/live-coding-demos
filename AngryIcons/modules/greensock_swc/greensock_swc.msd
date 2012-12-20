@@ -5,7 +5,7 @@
   </models>
   <stubModelEntries>
     <stubModelEntry path="${solution_descriptor}/greensock.swc">
-      <manager moduleId="d547343e-176a-45a2-8748-f7abfd850b86" className="com.realaxy.actionScript.core.stubs.SWCStubs" />
+      <manager moduleId="d547343e-176a-45a2-8748-f7abfd850b86" className="codeOrchestra.actionScript.core.stubs.SWCStubs" />
     </stubModelEntry>
   </stubModelEntries>
   <sourcePath />
@@ -14,9 +14,9 @@
     <dependency reexport="false">ca7b662b-5b2c-49d4-bebf-bc4aaabb21b6(debug_nape_swc)</dependency>
   </dependencies>
   <usedLanguages>
-    <usedLanguage>com.realaxy.actionScript</usedLanguage>
-    <usedLanguage>com.realaxy.actionScript.logging</usedLanguage>
-    <usedLanguage>com.realaxy.projectAssets</usedLanguage>
+    <usedLanguage>codeOrchestra.actionScript</usedLanguage>
+    <usedLanguage>codeOrchestra.actionScript.logging</usedLanguage>
+    <usedLanguage>codeOrchestra.projectAssets</usedLanguage>
   </usedLanguages>
 </solution>
 

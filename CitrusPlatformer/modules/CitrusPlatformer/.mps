@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model modelUID="r:57916b7d-65dc-4904-8a05-32fb01ed2586()">
   <persistence version="7" />
-  <language namespace="com.realaxy.actionScript" />
-  <language namespace="com.realaxy.actionScript.logging" />
-  <language namespace="com.realaxy.projectAssets" />
-  <language-engaged-on-generation namespace="com.realaxy.actionScript.logging" />
+  <language namespace="codeOrchestra.actionScript" />
+  <language namespace="codeOrchestra.actionScript.logging" />
+  <language namespace="codeOrchestra.projectAssets" />
+  <language-engaged-on-generation namespace="codeOrchestra.actionScript.logging" />
   <import index="1k6w" modelUID="f:swc_stub#(@swc_stub)" version="-1" />
   <import index="jivu" modelUID="f:swc_stub#flash.display(flash.display@swc_stub)" version="-1" />
   <import index="q8sl" modelUID="f:swc_stub#flash.metadata(flash.metadata@swc_stub)" version="-1" />
@@ -15,9 +15,9 @@
   <import index="nf2t" modelUID="f:swc_stub#com.citrusengine.objects.platformer.box2d(com.citrusengine.objects.platformer.box2d@swc_stub)" version="-1" />
   <import index="6byf" modelUID="f:swc_stub#starling.display(starling.display@swc_stub)" version="-1" />
   <import index="gx1l" modelUID="f:swc_stub#Box2D.Dynamics.Contacts(Box2D.Dynamics.Contacts@swc_stub)" version="-1" />
-  <import index="iqv8" modelUID="r:5bdb308e-1464-493c-a292-a31ce76ea42a(com.realaxy.actionScript.logging.logUtil)" version="-1" />
-  <import index="29it" modelUID="r:944a31f8-bb9e-4168-b4ad-9638a126a51d(com.realaxy.actionScript.util)" version="-1" />
-  <import index="n5kq" modelUID="r:5865b376-a157-43b1-b990-70db6dbffde6(com.realaxy.actionScript.liveCoding.util)" version="-1" />
+  <import index="iqv8" modelUID="r:5bdb308e-1464-493c-a292-a31ce76ea42a(codeOrchestra.actionScript.logging.logUtil)" version="-1" />
+  <import index="29it" modelUID="r:944a31f8-bb9e-4168-b4ad-9638a126a51d(codeOrchestra.actionScript.util)" version="-1" />
+  <import index="n5kq" modelUID="r:5865b376-a157-43b1-b990-70db6dbffde6(codeOrchestra.actionScript.liveCoding.util)" version="-1" />
   <import index="fju7" modelUID="f:swc_stub#flash.utils(flash.utils@swc_stub)" version="-1" />
   <import index="hi56" modelUID="r:95a04bc0-d622-4e3c-b70f-2cf40e879312(utils)" version="-1" />
   <import index="irym" modelUID="f:swc_stub#com.citrusengine.view.starlingview(com.citrusengine.view.starlingview@swc_stub)" version="-1" />
@@ -28,10 +28,10 @@
   <import index="kf4b" modelUID="f:swc_stub#com.citrusengine.objects(com.citrusengine.objects@swc_stub)" version="-1" />
   <import index="l72p" modelUID="f:swc_stub#com.citrusengine.physics(com.citrusengine.physics@swc_stub)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
-  <import index="3vt2" modelUID="r:49784cba-a384-4286-b969-08d540fbc32f(com.realaxy.actionScript.structure)" version="81" implicit="yes" />
-  <import index="lbmv" modelUID="r:8a4b8ef0-9ad1-439b-a216-d0659bebf629(com.realaxy.projectAssets.structure)" version="-1" implicit="yes" />
+  <import index="3vt2" modelUID="r:49784cba-a384-4286-b969-08d540fbc32f(codeOrchestra.actionScript.structure)" version="81" implicit="yes" />
+  <import index="lbmv" modelUID="r:8a4b8ef0-9ad1-439b-a216-d0659bebf629(codeOrchestra.projectAssets.structure)" version="-1" implicit="yes" />
   <import index="sneq" modelUID="f:swc_stub#org.osflash.signals(org.osflash.signals@swc_stub)" version="-1" implicit="yes" />
-  <import index="jqm3" modelUID="r:fbe79660-97b4-428d-b1be-fe20f98872b6(com.realaxy.actionScript.logging.structure)" version="2" implicit="yes" />
+  <import index="jqm3" modelUID="r:fbe79660-97b4-428d-b1be-fe20f98872b6(codeOrchestra.actionScript.logging.structure)" version="2" implicit="yes" />
   <roots>
     <node type="3vt2.ClassConcept" typeId="3vt2.1237644023270" id="6210250919662139609">
       <property name="name" nameId="tpck.1169194664001" value="Citrus" />
@@ -87,7 +87,7 @@
                     <property name="isSelectableHackInited" nameId="3vt2.8308821870589059759" value="true" />
                     <link role="reference" roleId="3vt2.890882911603824802" targetNodeId="fju7.~getDefinitionByName" resolveInfo="getDefinitionByName" />
                     <node role="actualArgument" roleId="3vt2.2024767275314559281" type="3vt2.StringLiteral" typeId="3vt2.1630592743144682613" id="5093353275424273656">
-                      <property name="value" nameId="3vt2.3383382943159949640" value="com.realaxy.actionScript.liveCoding.util.LiveCodeRegistry" />
+                      <property name="value" nameId="3vt2.3383382943159949640" value="codeOrchestra.actionScript.liveCoding.util.LiveCodeRegistry" />
                     </node>
                   </node>
                 </node>
