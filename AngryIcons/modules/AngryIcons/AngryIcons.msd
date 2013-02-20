@@ -7,26 +7,25 @@
     <source path="${solution_descriptor}/source" />
   </sourcePath>
   <dependencies>
-    <dependency reexport="false">00000000-7684-c3a9-ffff-ffffa7996d9d(Project_assets)</dependency>
-    <dependency reexport="false">32f5b1d2-f309-415b-8bd4-1d6b16bda5de(Quick2D)</dependency>
-    <dependency reexport="false">ef4493b2-a961-408e-8289-9fce6be5a002(Stats)</dependency>
-    <dependency reexport="false">3a27ae5e-9c30-4977-a146-ffce86d2005c(codeOrchestra.actionScript.logging)</dependency>
-    <dependency reexport="false">ca7b662b-5b2c-49d4-bebf-bc4aaabb21b6(debug_nape_swc)</dependency>
-    <dependency reexport="false">26f8962d-dd7c-4b18-9787-afa3e429b635(greensock_swc)</dependency>
-    <dependency reexport="false">deb885a3-45af-4af9-9d6b-160d6ece45ea(osmf_swc)</dependency>
-    <dependency reexport="false">3849ec0a-97b3-4a50-8e3c-92d2066b6599(playerglobal_swc)</dependency>
-    <dependency reexport="false">8106304a-c574-4363-9886-2c0bc7ff1825(AngryIcons)</dependency>
-    <dependency reexport="false">f68be358-6629-4f41-ae5f-4a9d0f5b7b43(framework_swc)</dependency>
-    <dependency reexport="false">4254d1c2-5edf-418c-b55f-8fbd21d4cbb5(rpc_swc)</dependency>
-    <dependency reexport="false">1b4a95ec-3105-427f-a610-5a39bd1ed18b(spark_swc)</dependency>
-    <dependency reexport="false">a540fd57-0e8e-4a41-b5a0-5eb74e58a302(codeOrchestra.actionScript.liveCoding)</dependency>
-    <dependency reexport="false">2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(codeOrchestra.actionScript)</dependency>
+    <dependency reexport="false" exclude="false">Project_assets</dependency>
+    <dependency reexport="false" exclude="false">Quick2D</dependency>
+    <dependency reexport="false" exclude="false">Stats</dependency>
+    <dependency reexport="false" exclude="false">codeOrchestra.actionScript.logging</dependency>
+    <dependency reexport="false" exclude="false">debug_nape_swc</dependency>
+    <dependency reexport="false" exclude="false">greensock_swc</dependency>
+    <dependency reexport="false" exclude="false">osmf_swc</dependency>
+    <dependency reexport="false" exclude="false">playerglobal_swc</dependency>
+    <dependency reexport="false" exclude="false">framework_swc</dependency>
+    <dependency reexport="false" exclude="false">rpc_swc</dependency>
+    <dependency reexport="false" exclude="false">spark_swc</dependency>
+    <dependency reexport="false" exclude="false">codeOrchestra.actionScript</dependency>
+    <dependency reexport="false" exclude="false">casalib</dependency>
   </dependencies>
   <usedLanguages>
-    <usedLanguage>2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(codeOrchestra.actionScript)</usedLanguage>
-    <usedLanguage>3a27ae5e-9c30-4977-a146-ffce86d2005c(codeOrchestra.actionScript.logging)</usedLanguage>
-    <usedLanguage>f8e34e2c-a7e4-43d2-ae57-c99a2499fa39(codeOrchestra.projectAssets)</usedLanguage>
-    <usedLanguage>a540fd57-0e8e-4a41-b5a0-5eb74e58a302(codeOrchestra.actionScript.liveCoding)</usedLanguage>
+    <usedLanguage>codeOrchestra.actionScript</usedLanguage>
+    <usedLanguage>codeOrchestra.actionScript.logging</usedLanguage>
+    <usedLanguage>codeOrchestra.projectAssets</usedLanguage>
+    <usedLanguage>codeOrchestra.actionScript.extensionMethods</usedLanguage>
   </usedLanguages>
 </solution>
 
