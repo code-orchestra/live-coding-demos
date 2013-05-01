@@ -19,13 +19,11 @@
     <dependency reexport="false" exclude="false">rpc_swc</dependency>
     <dependency reexport="false" exclude="false">spark_swc</dependency>
     <dependency reexport="false" exclude="false">codeOrchestra.actionScript</dependency>
-    <dependency reexport="false" exclude="false">casalib</dependency>
   </dependencies>
   <usedLanguages>
     <usedLanguage>codeOrchestra.actionScript</usedLanguage>
     <usedLanguage>codeOrchestra.actionScript.logging</usedLanguage>
     <usedLanguage>codeOrchestra.projectAssets</usedLanguage>
-    <usedLanguage>codeOrchestra.actionScript.extensionMethods</usedLanguage>
   </usedLanguages>
 </solution>
 
